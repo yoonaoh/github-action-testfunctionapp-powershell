@@ -1,7 +1,7 @@
 ### Intention
 
 1. Check if functions project can be deployed successfully
-2. Check if third party library `Az` can be resolved correctly
+2. Check if third party library `Az.Accounts` can be resolved correctly
 
 ### Usage
 
